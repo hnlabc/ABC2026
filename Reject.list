@@ -1,0 +1,6 @@
+# 广告域名（最常用）
+DOMAIN,ads.example.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-KEYWORD,adtrack
+DOMAIN-KEYWORD,analytics
